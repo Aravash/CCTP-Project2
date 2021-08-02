@@ -49063,7 +49063,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: 1efce246050a4eb4f84685355ec6e8f4, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: ConverseExplorerBehaviour
@@ -49143,6 +49143,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 500
   grid: {fileID: 0}
+  my_agent_list_pos: 0
   agent_list: {fileID: 0}
   trail_color: {r: 0, g: 0, b: 0, a: 0}
   explorerMap: {fileID: 6156449040107375096, guid: 1b4c1909ce096c647b1692b296dbdda6,
@@ -49460,7 +49461,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: 1efce246050a4eb4f84685355ec6e8f4, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: ConverseExplorerBehaviour
@@ -49540,6 +49541,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 500
   grid: {fileID: 0}
+  my_agent_list_pos: 0
   agent_list: {fileID: 0}
   trail_color: {r: 0, g: 0, b: 0, a: 0}
   explorerMap: {fileID: 6156449040107375096, guid: 1b4c1909ce096c647b1692b296dbdda6,
@@ -49679,7 +49681,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: 1efce246050a4eb4f84685355ec6e8f4, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: ConverseExplorerBehaviour
@@ -49759,6 +49761,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 500
   grid: {fileID: 0}
+  my_agent_list_pos: 0
   agent_list: {fileID: 0}
   trail_color: {r: 0, g: 0, b: 0, a: 0}
   explorerMap: {fileID: 6156449040107375096, guid: 1b4c1909ce096c647b1692b296dbdda6,
@@ -49898,7 +49901,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: 1efce246050a4eb4f84685355ec6e8f4, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: ConverseExplorerBehaviour
@@ -49978,6 +49981,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 500
   grid: {fileID: 0}
+  my_agent_list_pos: 0
   agent_list: {fileID: 0}
   trail_color: {r: 0, g: 0, b: 0, a: 0}
   explorerMap: {fileID: 6156449040107375096, guid: 1b4c1909ce096c647b1692b296dbdda6,
@@ -50117,7 +50121,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: 1efce246050a4eb4f84685355ec6e8f4, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: ConverseExplorerBehaviour
@@ -50197,6 +50201,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 500
   grid: {fileID: 0}
+  my_agent_list_pos: 0
   agent_list: {fileID: 0}
   trail_color: {r: 0, g: 0, b: 0, a: 0}
   explorerMap: {fileID: 6156449040107375096, guid: 1b4c1909ce096c647b1692b296dbdda6,

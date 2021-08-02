@@ -259,6 +259,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SocialTrainingEnvironment (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2895310328762351635, guid: a6292a988e217dc4b9dd6a3bb24d6326,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a6292a988e217dc4b9dd6a3bb24d6326, type: 3}
 --- !u!1001 &341413672
@@ -627,6 +632,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SocialTrainingEnvironment (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2895310328762351635, guid: a6292a988e217dc4b9dd6a3bb24d6326,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a6292a988e217dc4b9dd6a3bb24d6326, type: 3}

@@ -652,7 +652,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: 18a409fda9eb4c744ba9d093274a0588, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: LoneExplorerBehaviour
@@ -732,6 +732,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 500
   environment: {fileID: 5221865199543912474}
+  trail_color: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &5221865199355619424
 MonoBehaviour:
   m_ObjectHideFlags: 0
